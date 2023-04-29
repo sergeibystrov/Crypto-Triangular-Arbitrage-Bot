@@ -652,7 +652,7 @@ def third_step():
 
 
 if __name__ == '__main__':
-    # coin_list = first_step()
-    # structured_pairs = second_step(coin_list)
-    while True:
-        third_step()
+      coin_list = first_step()
+      structured_pairs = second_step(coin_list)
+    #while True:
+        #third_step()
